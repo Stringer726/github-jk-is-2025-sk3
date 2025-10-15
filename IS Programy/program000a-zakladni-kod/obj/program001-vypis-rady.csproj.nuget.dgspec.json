@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\program001-vypis-rady.csproj": {}
+    "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\program000a-zakladni-kod\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\program001-vypis-rady.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\program001-vypis-rady.csproj": {
+    "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\program000a-zakladni-kod\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\program001-vypis-rady.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\program001-vypis-rady.csproj",
+        "projectUniqueName": "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\program000a-zakladni-kod\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\program001-vypis-rady.csproj",
         "projectName": "program001-vypis-rady",
-        "projectPath": "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\program001-vypis-rady.csproj",
+        "projectPath": "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\program000a-zakladni-kod\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\program001-vypis-rady.csproj",
         "packagesPath": "C:\\Users\\Pepa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\obj\\",
+        "outputPath": "C:\\Users\\Pepa\\pepek\\github-jk-is-2025-sk3\\program000a-zakladni-kod\\github-jk-is-2025-sk3\\IS Programy\\program000a-zakladni-kod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pepa\\AppData\\Roaming\\NuGet\\NuGet.Config"
