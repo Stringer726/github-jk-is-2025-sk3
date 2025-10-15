@@ -7,7 +7,7 @@ while (again == "a")
     Console.WriteLine("******************************");
     Console.WriteLine("******** Josef Kubrt *********");
     Console.WriteLine("********* 16.10.2025 *********");
-    Console.WriteLine("******************************");
+    Console.WriteLine("************ XDD *************");
     Console.WriteLine();
 
     //Vstup čiselné hodnoty do programu - špatně řešený princip
