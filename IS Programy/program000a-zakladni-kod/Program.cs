@@ -1,12 +1,12 @@
-string again = "a";
+﻿string again = "a";
 while (again == "a")
 {
     Console.Clear();
     Console.WriteLine("******************************");
     Console.WriteLine("***** Výpis číselné řady *****");
     Console.WriteLine("******************************");
-    Console.WriteLine("******** Josef Kubrt *********");
-    Console.WriteLine("********* 16.10.2025 *********");
+    Console.WriteLine("******** Josef Kubrt ********");
+    Console.WriteLine("********* 2.10.2025 **********");
     Console.WriteLine("******************************");
     Console.WriteLine();
 
@@ -33,9 +33,7 @@ while (again == "a")
 
     Console.WriteLine();
     Console.WriteLine("Pro opakování programu stisknete klávesu a");
-  again = Console.ReadLine();
-  //noinspection CSharpWarnings__CS8600
-    
+    again = Console.ReadLine();
 
     
 
