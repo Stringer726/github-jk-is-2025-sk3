@@ -39,7 +39,7 @@ while (again == "a")
     {
         digit = number % 10;
         number = (number - digit) / 10;
-        Console.WriteLine("Digit = {0}", digit);
+        Console.WriteLine("Zbytek = {0}", digit);
         suma = suma + digit;
     }
 
